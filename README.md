@@ -6,5 +6,6 @@ Operators</br>
 Strings</br>
 If else</br>
 Switch</br>
+object<br>
 While loop</br>
 For loop</h3>
